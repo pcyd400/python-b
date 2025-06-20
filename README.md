@@ -12,4 +12,4 @@ A **simple, beginner-friendly CLI-based app** built in Python that lets users:
 =======
 # python-b
 simple programs to recall the python syntax
->>>>>>> 9805a2f6d9d30f7472cbfdd66376b71999d359e7
+
